@@ -1,0 +1,497 @@
+.nav-link{
+    color: black;
+    margin-top: -50px;
+}
+
+.header{
+    
+    background-color: rgba(248, 245, 252, 1);
+    padding: 30px;
+    height: 500px;
+    width: 1517px;
+    border-radius: 0px 0px 200px 0px;
+}
+.heading2{
+    color: rgba(111, 66, 193, 0.6);
+}
+.heading1{
+    color:rgba(111, 66, 193, 1);
+}
+.button{
+    background-color: 
+    rgba(111, 66, 193, 1);
+    color: white;
+    border-radius: 20px;
+    height: 40px;
+}
+.div1{
+    margin-top: 80px;
+   
+
+}
+.img{
+    margin-left: 930px;
+    margin-top: -210px;
+    border-radius: 0px 0px 200px 0px;
+
+}
+.divimg{
+    display: flex;
+    justify-content: space-between;
+    margin: 300px;
+    margin-top: -10px;
+}
+.heading3{
+    color:rgba(111, 66, 193, 1);
+}
+.div2{
+    text-align: center;
+}
+.img3{
+    margin-left: 30px;
+    margin-top: -180px;
+}
+.img4{
+    margin-left: 550px;
+    margin-top: -90px;
+}
+.para3{
+    margin-top: -23px;
+    margin-left: 20px;
+}
+.heading4{
+    color:rgba(111, 66, 193, 1);
+}
+.div4{
+    margin-left: 800px;
+    margin-top: -400px;
+
+}
+.heading5{
+    color:rgba(111, 66, 193, 1);
+}
+.div5{
+    margin-top: 170px;
+    margin-left: 50px;
+}
+.div6{
+    margin-left: 850px;
+    margin-top: -360px;
+}
+.img5{
+    margin-top: -90px;
+}
+.div7{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+}
+
+.heading6{
+    margin-left: 70px;
+    margin-top: -50px;
+    color:rgba(111, 66, 193, 1) ;
+}
+.para4{
+    margin-left: 70px;
+}
+.card{
+    width:239px ;
+    height:300px ;
+    margin: 30px;
+    box-shadow: 10px 10px 5px 2px rgba(111, 66, 193, 0.2);
+    border-radius: 10px;
+}
+.div8{
+    background-color:
+    rgba(248, 245, 252, 1) ;
+}
+.img7{
+    margin-left: 80px;  
+}
+.heading7{
+    margin-top: 70px;
+    margin-left: 20px;
+}
+.div9{
+    background-color:
+    rgba(226, 217, 243, 1) ;
+    height:140px;
+    width: 236px;
+}
+.para5{
+    margin-left: 20px;
+}
+.home3{
+  margin-left: 300px;
+}
+.home1{
+    margin-left: 300px;
+    margin-top: 40px;
+}
+.home2{
+    margin-top: -190px;
+
+}
+.home4{
+    margin-top: -290px;
+}
+.heading8{
+    color:rgba(111, 66, 193, 1) ;
+    margin-top: -29px;
+}
+
+.text{
+    margin-left: 700px;
+    margin-top: -700px;
+    padding: 30px;
+}
+.para6{
+    margin-top: -19px;
+    margin-left: 20px;
+
+}
+
+.button1{
+    background-color: rgba(111, 66, 193, 1);
+    color: white;
+    border-radius: 20px;
+    height: 44px;
+    margin-top: 20px;
+}    
+.text1{
+    margin-top: 300px;
+    text-align: center;
+}
+.heading9{
+    color:rgba(111, 66, 193, 1);
+}
+.il{
+    margin-left: 20px;
+    margin-top: -100px;
+   
+}
+.check{
+    margin-top: 30px;
+}
+.heading10{
+    margin-left: 20px;
+}
+.img8{
+    width: 10px;
+    height: 10px;
+}
+.text2{
+    margin-left: 300px;
+    margin-top: -370px;
+}
+.img9{
+    margin-left: 800px;
+    margin-top: -400px;
+}
+.div10{
+    background-color: rgba(248, 245, 252, 1);
+    height: 700px;
+   
+}
+.heading11{
+    color: rgba(111, 66, 193, 1);
+    text-align: center;
+}
+.para8{
+    text-align: center;
+}
+.carding{
+    border: 1px solid white;
+    width: 470px;
+    height:184px;
+    margin-left: 30px;
+    background-color: white;
+    box-shadow: 10px 10px 5px 2px rgba(190, 190, 190, 0.25);
+}
+
+.card-title{
+    margin-top: 20px;
+    color: rgba(111, 66, 193, 1);
+}
+.card-title{
+    margin-left: 30px;
+}
+.carding1{
+    margin-left: 190px;
+    margin-top: -180px;
+}
+.pics3{
+    margin-left: 807px;  
+    margin-top: -580px; 
+}
+.pics2{
+    margin-left: 807px;
+    margin-top: -200px;
+}
+.card-title1{
+margin-left: 240px;
+margin-top: -50px;
+color: rgba(111, 66, 193, 1);
+}
+
+.img-fluid{
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.pics1{
+    margin-top: -100px;
+}
+.para9{
+    color: rgba(111, 66, 193, 1);
+    
+}
+.work{
+    margin-left: 90px;
+margin-top: 70px;
+}
+.para10{
+    margin-left: 250px;
+    margin-top: -40px;
+}
+.button2{
+    background-color: rgba(111, 66, 193, 1);
+    color: white;
+    border-radius: 30px;
+    height: 54px;
+    width: 90px;
+    margin-left: 800px;
+    margin-top: -70px;
+}
+.work2{
+    margin-top:90px;
+}
+.h1{
+    color:rgba(111, 66, 193, 1);
+    text-align: center;
+}
+.para11{
+    text-align: center;
+}
+.photo{
+    margin-left: 90px;
+    margin-top: 30px;
+}
+.photo1{
+    margin-left: 500px;
+    margin-top: -280px;
+}
+.photo2{
+    margin-left: 900px;
+    margin-top: -280px;
+}
+.button5{
+    margin-left: 1000px;
+    background-color: rgba(111, 66, 193, 1);
+    color: white;
+   
+}
+.button6{
+    margin-left: 650px;
+    background-color: rgba(111, 66, 193, 1);
+    color: white;
+}
+.button7{
+    margin-left: 200px;
+    background-color: rgba(111, 66, 193, 1);
+    color: white;
+}
+.img10{
+    margin-top: 30px;
+    margin-left: 80px;
+   margin-top: -80px;
+}
+.work3{
+    margin-left: 90px;
+    margin-top: 30px;
+}
+.para12{
+    margin-top: -23px;
+    margin-left: 20px;
+}
+.para13{
+    margin-left:99px ;
+    margin-top: -62px;
+
+}
+.h6{
+    color: rgba(111, 66, 193, 1);
+}
+.work4{
+    margin-left: 630px;
+    margin-top: -70px;
+}
+.work5{
+    margin-left: 990px;
+  margin-top: -70px;
+}
+.list{
+    color: rgba(111, 66, 193, 1);
+    margin-top: 30px;
+    padding:10px;
+}
+
+.footer1{
+    margin-left: 560px;
+    margin-top: -120px;
+}
+.footer{
+background-color: rgba(248, 245, 252, 1);
+height: 200px;
+}
+.work6{
+    margin-top: 90px;
+    margin-left: 40px;
+}
+.footer2{
+    margin-left: 860px;
+    margin-top: -170px;
+}
+.footer3{
+    margin-left: 1200px;
+    margin-top: -140px;
+}
+@media only screen and (max-width:900px){
+.header{
+    height: 700px;
+    width: 800px;
+    border-radius: 0px 0px 300px 0px;
+}
+.img{
+    margin-top: 10px;
+    margin-left: -30px;
+    margin-left: 90px;
+}
+.divimg{
+    flex-direction: column;
+}
+.div4{
+    margin-top: 40px;
+    margin-left: -30px;
+    margin-left: 50px;
+}
+.div6{
+    margin-top:40px ;
+    margin-left: -30px;
+    margin-left: 50px;
+}
+.img5{
+    margin-top: 333px;
+    margin-left: -610px;
+}
+.div7{
+    flex-direction: column;
+    margin-left: 180px;
+}
+.text{
+    margin-top: 50px;
+    margin-left: -30px;
+    margin-left: 50px;
+}
+.text1{
+    margin-top: -10px;
+    margin-top: 20px;
+}
+.text2{
+    margin-left: 420px;
+}
+.img9{
+    margin-top: 40px;
+    margin-left: -30px;
+    margin-left: 150px;
+}
+.pics2{
+margin-top: 40px;
+margin-left: -30px;
+margin-left: 10px;
+}
+.pics3{
+    margin-top: 60px;
+margin-left: -30px;
+margin-left: 10px;
+margin-top: -650px;
+
+}
+.div10{
+  height: 960px;
+  width: 840px;
+}
+.button2{
+    margin-left: 40px;
+}
+.photo1{
+    margin-top: 60px;
+    margin-left:80px;
+}
+.photo2{
+    margin-top: 60px;
+    margin-left:80px;
+}
+.button5{
+    margin-top: -40px;
+    margin-left: -50px;
+    margin-left: 200px;
+}
+.button6{
+    margin-top: -20px;
+    margin-left: -50px;
+    margin-left: 200px;
+}
+.work3{
+    margin-top: -670px;
+    margin-left: -50px;
+    margin-left: 200px;
+}
+.work4{
+    margin-top: -170px;
+    margin-left: -50px;
+    margin-left: 200px;
+    margin-top: 280px;
+}
+.work5{
+    margin-top: -170px;
+    margin-left: -50px;
+    margin-left: 200px;
+    margin-top: 320px;
+}
+.h6{
+    margin-top: -10px;
+}
+.footer{
+    margin-top:680px;
+    margin-top: -50px;
+    height: 800px;
+    width: 840px;
+}
+.footer1{
+    margin-top: 50px;
+    margin-left: -40px;
+margin-left: 150px;
+}
+.footer2{
+    margin-top: 70px;
+    margin-left: -40px;
+margin-left: 150px;
+}
+.footer3{
+    margin-top: 90px;
+    margin-left: -40px;
+margin-left: 150px;
+}
+.work6{
+    margin-left: 150px;
+}
+body{
+ overflow-x: hidden;
+    padding: 20px;
+}
+.div8{
+    width: 840px;
+}
+}
+
